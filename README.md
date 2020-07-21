@@ -9,7 +9,7 @@ Angular app using ngrx/ Simple fruit store website
 - Run ng serve to start the Angular dev server
 
 ## Built with ##
-- Angular
+- [Angular](https://angular.io/)
 - Express
 - ngrx/store
 - ngrx/effects

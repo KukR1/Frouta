@@ -1,5 +1,5 @@
 # Frouta
-Angular app using ngrx/ Simple fruit store website
+*Angular app using ngrx, simple fruit store website*
 
 ## Installing ##
 - Clone project and install dependencies

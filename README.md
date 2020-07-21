@@ -7,3 +7,9 @@ Angular app using ngrx/ Simple fruit store website
 - Run npm install
 - Start server by running node server
 - Run ng serve to start the Angular dev server
+
+## Built with ##
+- Angular
+- Express
+- ngrx/store
+- ngrx/effects

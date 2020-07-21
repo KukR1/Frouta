@@ -10,6 +10,6 @@ Angular app using ngrx/ Simple fruit store website
 
 ## Built with ##
 - [Angular](https://angular.io/)
-- Express
-- ngrx/store
-- ngrx/effects
+- [Express](https://expressjs.com/)
+- [ngrx/store](https://ngrx.io/guide/store)
+- [ngrx/effects](https://ngrx.io/guide/effects)

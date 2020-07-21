@@ -1,7 +1,7 @@
 # Frouta
 Angular app using ngrx/ Simple fruit store website
 
-#Installing
+## Installing ##
 - Clone project and install dependencies
 - Enter the project folder
 - Run npm install

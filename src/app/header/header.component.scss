@@ -1,0 +1,62 @@
+header {
+  display: flex;
+  background-color: white;
+  margin: 0;
+  padding: 2px 5%;
+  color: whitesmoke;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+
+  .brand {
+    flex: 1;
+    display: flex;
+    align-items: center;
+
+    img {
+      height: 45px;
+      border-radius: 50%;
+      margin-right: 17px;
+    }
+
+    h5 {
+      font-family: 'Lobster', cursive;
+      font-size: 23px;
+      margin: 0;
+      letter-spacing: 1px;
+      color: rgb(241, 53, 12);
+      background: linear-gradient(90deg, rgba(149, 17, 221, 0.99) 20%, rgba(212, 44, 15, 1) 80%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 20px;
+    display: flex;
+
+    li {
+      display: flex;
+      align-items: center;
+      position: relative;
+
+      img {
+        width: 30px;
+      }
+
+      .badge {
+        height: 20px;
+        width: 20px;
+        font-size: 11px;
+        color: white;
+        background-color: #35badb;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        right: -10px;
+        border-radius: 50%;
+      }
+    }
+  }
+}
